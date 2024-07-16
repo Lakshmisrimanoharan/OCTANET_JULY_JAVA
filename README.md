@@ -1,2 +1,0 @@
-# OCTANET_JULY_JAVA
-Intership 
